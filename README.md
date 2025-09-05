@@ -70,4 +70,5 @@ I've pinned standout repositories to highlight my work:
 ####  Optional Enhancements
 - **Visitor Badge**:  
   ```markdown
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jaganyv.jaganyv)
+  ![Visitors](https://img.shields.io/badge/dynamic/json?color=success&label=visitors&query=value&url=https://api.countapi.xyz/hit/jaganyv.readme/visits)
+
