@@ -23,7 +23,7 @@
 <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" width="40" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
 
 **Frameworks & Libraries**  
-<img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/nodejs.png"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png"/>
 
 **Tools & IDEs**  
 <img height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/eclipse.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/git.png"/>
