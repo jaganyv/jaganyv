@@ -1,10 +1,12 @@
 ## Hi there 👋, I’m **Jagan Yadav M**
 
-**Full Stack Developer** (Java | Spring Boot | React | MySQL) — passionate about building scalable and efficient applications  
+**Full Stack Developer** (Java | Spring Boot | React | MySQL) 
+**🚀 Passionate About Building Scalable and Efficient Applications**
+
 <img align="right" width="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Currently building: **Netflix Clone** & **Daily Java Tips API**  
-- 🌱 Learning: **Advanced Spring Framework + DSA in Java**  
+- 🔭 Currently building: ** Full-Stack E-Commerce Application  ** 
+- 🌱 Learning: **Advanced Java + DSA **  
 - 🎯 Goal: Master Full Stack Development & crack placements/internships  
 - 🤝 Open to **collaborations, mentorship, and open-source contributions**  
 - ⚡ Fun fact: I prefer **code over talks** 😉
