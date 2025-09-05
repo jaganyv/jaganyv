@@ -53,6 +53,7 @@ I've pinned standout repositories to highlight my work:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganyv&theme=tokyonight" width="45%"/>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaganyv&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
