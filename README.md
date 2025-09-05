@@ -57,7 +57,8 @@ I've pinned standout repositories to highlight my work:
 ---
 
 ###  Coding Profiles
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jaganyv?ext=contest&theme=dark)](https://leetcode.com/u/jaganyv/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/jaganyv?theme=dark&font=Source%20Code%20Pro&ext=contest)
+  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jaganyv/)
 
 ---
