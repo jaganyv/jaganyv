@@ -23,7 +23,7 @@
 <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" width="40" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
 
 **Frameworks & Libraries**  
-<img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png"/><img width="40" height="40" src="https://img.icons8.com/office/40/spring-logo.png" alt="spring-logo"/>
 
 
 **Tools & IDEs**  
@@ -67,9 +67,5 @@ I've pinned standout repositories to highlight my work:
 
 ---
 
-####  Optional Enhancements
-- **Visitor Badge**:  
-  ```markdown
-  ![Profile views](https://komarev.com/ghpvc/?username=jaganyv&label=Profile%20views&color=0e75b6&style=flat)
 
 
