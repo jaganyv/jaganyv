@@ -49,6 +49,7 @@ I've pinned standout repositories to highlight my work:
   <img src="https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganyv&theme=tokyonight" width="45%"/>
 </p>
+![GitHub Snake](https://github.com/jaganyv/jaganyv/blob/output/github-contribution-grid-snake.svg)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaganyv&bg_color=0f0f0f&color=ffffff&line=4CAF50&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
