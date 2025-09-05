@@ -70,5 +70,6 @@ I've pinned standout repositories to highlight my work:
 ####  Optional Enhancements
 - **Visitor Badge**:  
   ```markdown
-  ![Visitors](https://img.shields.io/badge/dynamic/json?color=success&label=visitors&query=value&url=https://api.countapi.xyz/hit/jaganyv.readme/visits)
+  ![Profile views](https://komarev.com/ghpvc/?username=jaganyv&label=Profile%20views&color=0e75b6&style=flat)
+
 
