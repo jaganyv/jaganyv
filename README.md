@@ -53,14 +53,6 @@ I've pinned standout repositories to highlight my work:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganyv&theme=tokyonight" width="45%"/>
 </p>
 
-![Jagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=dark&hide_border=true)
-[![Jagan’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaganyv&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaganyv&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaganyv&bg_color=0f0f0f&color=ffffff&line=4CAF50&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -68,8 +60,6 @@ I've pinned standout repositories to highlight my work:
 ###  Coding Profiles
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jaganyv?theme=dark&font=Source%20Code%20Pro&ext=contest)
   
-
-
 ---
 
 ⭐ **“Consistency beats talent when talent doesn’t work hard.”**
