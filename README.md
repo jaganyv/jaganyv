@@ -1,9 +1,11 @@
 ## Hi there 👋, I’m **Jagan Yadav M**
 
 **Full Stack Developer** (Java | Spring Boot | React | MySQL) 
-**🚀 Passionate About Building Scalable and Efficient Applications**
+
 
 <img align="right" width="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+**🚀 Passionate About Building Scalable and Efficient Applications**
 
 - 🔭 Currently building: ** Full-Stack E-Commerce Application  ** 
 - 🌱 Learning: **Advanced Java + DSA **  
