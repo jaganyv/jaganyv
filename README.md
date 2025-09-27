@@ -43,7 +43,7 @@ I've pinned standout repositories to highlight my work:
 
 | Project Name         | Description                                  | Link |
 |----------------------|----------------------------------------------|------|
-| **Mini-Project-Js**  | Lightweight JavaScript mini-project          | [Repo](https://github.com/jaganyv/Mini-Project-Js) |
+| **Java-Projects**  | Lightweight Java Projects         | [Repo]((https://github.com/jaganyv/Java_Projects)) |
 | **Java-Mini-Projects** | Useful Java mini-projects for practice      | [Repo](https://github.com/jaganyv/Java-Mini-Projects) |
 | **JavaProjects**     | Core Java code implementations—no fluff      | [Repo](https://github.com/jaganyv/JavaProjects) |
 
