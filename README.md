@@ -41,11 +41,12 @@
 ###  Featured Projects
 I've pinned standout repositories to highlight my work:
 
-| Project Name         | Description                                  | Link |
-|----------------------|----------------------------------------------|------|
-| **Java-Projects**      | Lightweight Java Projects                   | [Repo]((https://github.com/jaganyv/Java_Projects)) |
-| **Java-Mini-Projects** | Useful Java mini-projects for practice      | [Repo](https://github.com/jaganyv/Java-Mini-Projects) |
-| **JavaProjects**       | Core Java code implementations—no fluff     | [Repo](https://github.com/jaganyv/JavaProjects) |
+| Project Name          | Description                             | Link                                                                 |
+|-----------------------|-----------------------------------------|----------------------------------------------------------------------|
+| **Java-Projects**     | Lightweight Java Projects               | [Repo](https://github.com/jaganyy/Java_Projects)                     |
+| **Java-Mini-Projects**| Useful Java mini-projects for practice  | [Repo](https://github.com/jaganyy/Java-Mini-Projects)                |
+| **JavaProjects**      | Core Java code implementations—no fluff | [Repo](https://github.com/jaganyy/JavaProjects)                      |
+
 
 
 ---
