@@ -41,7 +41,8 @@
 <img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
 <img height="40" width="40" src="https://img.icons8.com/color/48/react-native.png"/>
 <img height="40" width="40" src="https://img.icons8.com/office/40/spring-logo.png"/>
-<img height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg" />
+
 
 
 
