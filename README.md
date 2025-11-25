@@ -29,10 +29,12 @@
 **Languages**  
 <img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img height="40" width="40" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png"/>
 <img height="40" width="40" src="https://img.icons8.com/color/48/html-5.png"/>
 <img height="40" width="40" src="https://img.icons8.com/color/48/css3.png"/>
 <img height="40" width="40" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
 <img height="40" width="40" src="https://img.icons8.com/color/48/postgreesql.png"/>
+
 
 
 **Frameworks & Libraries**  
