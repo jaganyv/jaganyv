@@ -47,7 +47,7 @@
 
 
 **Tools & IDEs**  
-<img height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/eclipse.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/git.png"/><img height="40" width="40" src="https://raw.githubusercontent.com/getcursor/cursor-icons/main/cursor-logo-white.svg" />
+<img height="40" width="40" src="https://img.icons8.com/color/48/intellij-idea.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/eclipse.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/git.png"/>
 
 
 ---
