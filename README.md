@@ -58,7 +58,7 @@ I've pinned standout repositories to highlight my work:
 
 | Project Name          | Description                             | Link                                                                 |
 |-----------------------|-----------------------------------------|----------------------------------------------------------------------|
-| **Java-Projects**     | Lightweight Java Projects               | [Repo](https://github.com/jaganyv/Java_Projects/tree/main/src)                     |
+| **Service_Worker_Finder**     | Full Stack Proect              | [Repo]([(https://github.com/jaganyv/Service_Worker_Finder))                     |
 | **Java-Mini-Projects**| Useful Java mini-projects for practice  | [Repo](https://github.com/jaganyy/Java-Mini-Projects)                |
 | **JavaProjects**      | Core Java code implementations—no fluff | [Repo](https://github.com/jaganyy/JavaProjects)                      |
 
