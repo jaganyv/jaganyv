@@ -58,8 +58,8 @@ I've pinned standout repositories to highlight my work:
 
 | Project Name            | Description                             | Link                                                          |
 |-------------------------|-----------------------------------------|---------------------------------------------------------------|
-| **Service_Worker_Finder** | Full Stack Project                      | [Repo](https://github.com/jaganyv/Service_Worker_Finder)    |
-| **Java-Mini-Projects**  | Useful Java mini-projects for practice  | [Repo](https://github.com/jaganyy/Java-Mini-Projects)         |
+| **Service_Worker_Finder** | Full Stack Project                    | [Repo](https://github.com/jaganyv/Service_Worker_Finder)      |
+| **Local_Job_Finder**      | Full Stack Project                    | [Repo](https://github.com/jaganyv/Local_Job_Finder))          |
 | **JavaProjects**        | Core Java code implementations—no fluff | [Repo](https://github.com/jaganyy/JavaProjects)               |
 
 
