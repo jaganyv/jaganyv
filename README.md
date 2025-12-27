@@ -68,13 +68,25 @@ I've pinned standout repositories to highlight my work:
 ---
 
 ###  GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganyv&theme=tokyonight" width="45%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jaganyv&theme=tokyonight"
+    width="45%"
+  />
 </p>
 
-![Jagan’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaganyv&theme=tokyo-night)
+---
+
+### 📈 GitHub Activity Graph
+
+![Jagan’s GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaganyv&theme=tokyo-night&hide_border=true)
+
 
 
 
