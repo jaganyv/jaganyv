@@ -80,7 +80,7 @@ I've pinned standout repositories to highlight my work:
 ---
 
 ###  Coding Profiles
-![LeetCode Stats](https://leetcard.jacoblin.cool/jaganyv?theme=dark&font=Source%20Code%20Pro&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jagan_Yadav?theme=dark&font=Source%20Code%20Pro&ext=contest)
   
 ---
 
