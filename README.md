@@ -67,20 +67,14 @@ I've pinned standout repositories to highlight my work:
 
 
 ---
+## GitHub Analytics
 
-**### GitHub Analytics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganyv&theme=tokyonight" width="45%"/> **## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=jaganyv&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-</p>
-</p> [![Jagan’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaganyv&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/jaganyv/github-readme-activity-graph)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaganyv&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaganyv&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+
 
 
 
