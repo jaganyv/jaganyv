@@ -6,12 +6,12 @@
 <img align="right" width="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
-- 💼 Full Stack developer with hands-on experience building and maintaining end-to-end applications
-- 🛠 Proficient in designing, implementing, and debugging scalable, maintainable solutions
-- 🧠 Strong problem-solving ability with a focus on clean code and practical system design
-- ⚙️ Experienced with Java, Spring Boot, SQL, React, and TypeScript across the application stack
-- 🎯 Targeting Software Developer / Full Stack Developer roles
-- 🤝 Open to collaborations and open-source contributions
+- 💼 **Full Stack Developer** with hands-on experience building and maintaining **end-to-end applications**
+- 🛠 Proficient in **designing, implementing, and debugging scalable, maintainable solutions**
+- 🧠 Strong in **problem solving** with a focus on **clean, production-ready code**
+- ⚙️ Experienced across the stack with **Java, Spring Boot, SQL, React, and TypeScript**
+- 🎯 Targeting **Software Developer / Full Stack Developer** roles
+- 🤝 Open to **collaborations and open-source contributions**
 
 
 ---
