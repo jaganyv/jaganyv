@@ -6,12 +6,13 @@
 <img align="right" width="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
+- 💼 Full Stack developer with hands-on experience building and maintaining end-to-end applications
+- 🛠 Proficient in designing, implementing, and debugging scalable, maintainable solutions
+- 🧠 Strong problem-solving ability with a focus on clean code and practical system design
+- ⚙️ Experienced with Java, Spring Boot, SQL, React, and TypeScript across the application stack
+- 🎯 Targeting Software Developer / Full Stack Developer roles
+- 🤝 Open to collaborations and open-source contributions
 
-- 🔭 Currently building: **Full-Stack E-Commerce Application**
-- 🌱 Learning: **Advanced Java + DSA**
-- 🎯 Goal: **Master Full Stack Development & crack placements/internships**
-- 🤝 Open to **collaborations, mentorship, and open-source contributions**
-- ⚡ Fun fact: **I prefer code over talks 😉**
 
 ---
 
