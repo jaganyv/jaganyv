@@ -69,11 +69,12 @@ I've pinned standout repositories to highlight my work:
 ---
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaganyv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaganyv&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jaganyv&theme=tokyonight&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaganyv&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+
 
 
 
